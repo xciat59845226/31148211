@@ -1,3 +1,4 @@
+test.fetch();
 ResultSet rs = ps.executeQuery();
 String userName = props.getProperty("db.user");
 Class.forName(driverClass);
