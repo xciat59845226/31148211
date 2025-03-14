@@ -1,3 +1,4 @@
+public void init(FileInputStream fs) throws ClassNotFoundException, SQLException, FileNotFoundException, IOException
 OracleJdbcTest test = new OracleJdbcTest();
 // error processing code
 String driverClass = "oracle.jdbc.driver.OracleDriver";
