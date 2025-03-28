@@ -1,3 +1,4 @@
+ps.close();
 test.init();
 Properties props = new Properties();
 Connection con;
