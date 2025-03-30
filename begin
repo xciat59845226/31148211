@@ -1,3 +1,4 @@
+out = new BufferedWriter(new FileWriter(”filename”, true));
 ps.close();
 test.init();
 Properties props = new Properties();
